@@ -10,8 +10,7 @@ something about me:
 
   💘 Python | data | GUIs | automation | Raspberry Pis
 
-  🫶 democracy | freedom | privacy
-</br></br>
+  🫶 democracy | freedom | privacy    
 *"The more you know, the more you realize you don't know.", Aristotle*
 
 
