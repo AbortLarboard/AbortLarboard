@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there, welcome to my Profile!
+
+something about me:
+
+🎓 dev student
+
+📜 BA political science
+
+🔭 i'm currently working on my privacy tool for screen sharing called [Curtains](https://github.com/AbortLarboard/curtains_dev) in my freetime
+
+💘 Python | data | GUIs | automation | Raspberry Pis
+
+🫶 democracy | freedom | privacy
+
+
 
 <!--
 **AbortLarboard/AbortLarboard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
