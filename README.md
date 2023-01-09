@@ -1,4 +1,4 @@
-### Hi there, welcome to my Profile!
+### Hello there, welcome to my Profile!
 
 something about me:
 - 🎓 dev student  
