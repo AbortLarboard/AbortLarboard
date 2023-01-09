@@ -10,7 +10,7 @@ something about me:
       
 *"The more you know, the more you realize you don't know.", Aristotle*  
   
-*"“New technology is not good or evil in and of itself. It’s all about how people choose to use it.” — David Wong (Jason Pargin)"*
+*"“New technology is not good or evil in and of itself. It’s all about how people choose to use it.”, David Wong (Jason Pargin)"*
 
 
 
