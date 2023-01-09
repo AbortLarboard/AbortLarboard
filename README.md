@@ -14,6 +14,10 @@ something about me:
 
 
 
+*"The more you know, the more you realize you don't know.", Aristotle*
+
+
+
 <!--
 **AbortLarboard/AbortLarboard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
