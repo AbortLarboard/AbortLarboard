@@ -2,7 +2,6 @@
 
 something about me:
 - 🎓 dev student  
-- 📜 BA political science  
 - 🔭 i'm currently working on my privacy tool for screen sharing called [Curtains](https://github.com/AbortLarboard/curtains_dev) in my freetime  
 - 💘 Python | data | GUIs | automation | Raspberry Pis  
 - 🫶 democracy | freedom | privacy       
