@@ -5,7 +5,7 @@ something about me:
 - 🔭 i'm currently working on my privacy tool for screen sharing called [Curtains](https://github.com/AbortLarboard/curtains_dev) in my freetime  
 - 💘 [Python](https://peps.python.org/pep-0020/#the-zen-of-python) | data | GUIs | automation | Raspberry Pis  
 - 🫶 democracy | freedom | privacy       
-- 📖 Ted Chiang, Philip K. Dick
+- 📖 Ted Chiang, Philip K. Dick, [hackaday.com](https://hackaday.com/)
     
       
 *"The more you know, the more you realize you don't know.", Aristotle*  
